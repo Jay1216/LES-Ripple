@@ -1,4 +1,4 @@
-# LES Ripple Case Setup
+# LES Ripple Simulations in SedFoam
 
 This repository provides the numerical case setup used in the LES ripple simulations associated with the study.
 
